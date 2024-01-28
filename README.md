@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links 
 
-- Live Site URL: []
+- Live Site URL: [https://pearlanyanwu.github.io/single-price-grid.github.io/]
 
 ## My process
 
