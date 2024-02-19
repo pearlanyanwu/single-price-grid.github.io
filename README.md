@@ -6,12 +6,9 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 
 ## Overview
 
@@ -22,13 +19,9 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - See a hover state on desktop for the Sign Up call-to-action
 
-### Screenshot
-
-![](./screenshot.png)
-
 ### Links 
 
-- Live Site URL: [https://pearlanyanwu.github.io/single-price-grid.github.io/]
+- Live Site URL: https://pearlanyanwu.github.io/single-price-grid.github.io/
 
 ## My process
 
@@ -36,18 +29,3 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS Grid
-
-### What I learned
-
-I learned how to create a grid in which one column spans over two columns.
-
-```css
-.top {
-  grid-column: 1 / span 2;
-  grid-row: 1;
-}
-```
-
-### Useful resources
-
-- [w3schools.com](https://www.w3schools.com/css/tryit.asp?filename=trycss_grid_item) - This helped me create the grid.
